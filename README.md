@@ -31,7 +31,7 @@ My work usually sits at the intersection of:
 - **Data & Analytics** — SQL, Power BI, time-series analysis, predictive maintenance
 - **Applied Systems** — UAV systems, embedded workflows, cloud-based image storage
 
-I care about clean architecture, reliable data flow, readable interfaces, and documentation that makes projects easy to understand.
+I care about clean architecture, reliable data flow, readable interfaces, and pipeline that easy to maintain.
 
 ---
 
