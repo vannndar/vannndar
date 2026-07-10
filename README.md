@@ -129,7 +129,7 @@ A full-stack learning platform for managing courses, modules, weekly schedules, 
 
 **Tech:** TypeScript, Next.js, React, Tailwind CSS, Supabase, PostgreSQL  
 **Repository:** [LearningWithUs](https://github.com/vannndar/learningwithus)'
-**Deployment** [Live Website](https://learningwithus.vercel.app)
+**Deployment** [Live Website](https://learningwithus.vandar.id/)
 
 </details>
 
