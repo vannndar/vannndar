@@ -222,12 +222,19 @@ flowchart LR
 
 ## 📊 GitHub Overview
 
-<div align="center">
+<p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=vannndar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Ivan's GitHub Statistics"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannndar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Ivan's Most Used Languages"
+  />
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vannndar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vannndar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
 
 ---
 
